@@ -13,6 +13,7 @@ Trials and Errors
 3. hola
 
 [谷歌网址](http://www.google.com)
+[百度地址](http://www.baidu.com)
 
 #### 图片演示
 ![](https://aranenglishblog.files.wordpress.com/2010/12/postit_hello4.gif)
