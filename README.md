@@ -15,4 +15,4 @@ Trials and Errors
 [谷歌网址](http://www.google.com)
 
 #### 图片演示
-![](http://www.hellocle.com/wp-content/themes/hello/images/hello-logo.png)
+![](https://aranenglishblog.files.wordpress.com/2010/12/postit_hello4.gif)
