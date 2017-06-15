@@ -24,3 +24,12 @@ Trials and Errors
 
 *这个是斜体*
 **这个是粗体**
+
+### 引用代码的话
+
+```
+int x = 8;
+x + 5 = y;
+return y;
+
+```
